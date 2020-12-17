@@ -1,0 +1,4 @@
+OBJECT_BASE 1857910.btg
+OBJECT SVLO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -66.192616 11.805020 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -66.165559 11.812624 2.0 0.00

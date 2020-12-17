@@ -1,0 +1,4 @@
+OBJECT_BASE 1891100.btg
+OBJECT TUPW.btg
+OBJECT_SHARED Models/Airport/windsock.xml -64.427275 18.450026 5.1 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -64.428385 18.443678 5.1 0.00
